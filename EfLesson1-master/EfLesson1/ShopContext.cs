@@ -15,7 +15,7 @@ namespace EfLesson1
         public DbSet<ShopItem> ShopItems { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=DESKTOP-ULEHGHQ\SQLEXPRESS;Database=ShoeShopDb;Integrated Security=True;");
+            optionsBuilder.UseSqlServer(@"Server=DESKTOP-IAGJLVQ\SQLEXPRESS;Database=ShoeShopHW;Integrated Security=True;");
         }
     }
 }
