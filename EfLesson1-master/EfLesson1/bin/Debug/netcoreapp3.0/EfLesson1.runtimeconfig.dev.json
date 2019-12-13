@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KYROPA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KYROPA\\.nuget\\packages"
+    ]
+  }
+}
